@@ -1,0 +1,8 @@
+rootProject.name='Inject'
+include ':app'
+include ':appModuleA'
+include ':appModuleB'
+include ':userModuleA'
+include ':userModuleB'
+include ':userEntity'
+include ':appEntity'
