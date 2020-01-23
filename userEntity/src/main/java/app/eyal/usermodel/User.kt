@@ -1,3 +1,3 @@
 package app.eyal.usermodel
 
-class User(val id: String)
+data class User(val id: String)
