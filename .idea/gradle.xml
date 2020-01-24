@@ -14,6 +14,8 @@
             <option value="$PROJECT_DIR$/appEntity" />
             <option value="$PROJECT_DIR$/appModuleA" />
             <option value="$PROJECT_DIR$/appModuleB" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/temp" />
             <option value="$PROJECT_DIR$/userEntity" />
             <option value="$PROJECT_DIR$/userModuleA" />
             <option value="$PROJECT_DIR$/userModuleB" />
